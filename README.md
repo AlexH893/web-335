@@ -1,4 +1,4 @@
-# WEB 420 RESTful APIs
+# WEB-335 Introduction to NoSQL
 
 
 ## Contributors
