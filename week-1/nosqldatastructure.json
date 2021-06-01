@@ -1,0 +1,7 @@
+{ “firstname”: “Martin”,
+    “lastname”: “Fowler”,
+    “car”: [
+      {“type”: “Ford”, “color”: “white”},
+                 {“type”: “Nissan”, “color”: “black”}
+          ]
+    }
