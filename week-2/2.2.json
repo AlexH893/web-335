@@ -1,0 +1,57 @@
+{
+"id": 1,
+"firstName": "alex",
+"lastName": "haefner",
+"date_of_birth": "12-02-1992",
+"username": "alexh"
+}
+
+{
+"_id": 100,
+"date_created": "6-5-2021",
+"date_shipped": "6-6-2021",
+"subtotal": 200.00,
+"line items": [
+    {
+        "id": "201",
+        "name": "Office Chair",
+        "price": 100.00,
+        "qty": 1
+    }
+],
+"tax": 1,
+"total": 201.00,
+}
+
+{
+    "_id": 101,
+    "date_created": "6-10-2021",
+    "date_shipped": "6-20-2021",
+    "line items": [
+        {
+            "id": "201",
+            "name": "Stapler",
+            "price": 200.00,
+            "qty": 10
+        }
+        {
+            "id": "201",
+            "name": "Printer",
+            "price": 100.00,
+            "qty": 10
+        }        
+    ],
+    "subtotal": 3000.00,
+    "tax": 1,
+    "total": 3001.00,
+    }
+
+
+
+
+
+
+
+
+
+

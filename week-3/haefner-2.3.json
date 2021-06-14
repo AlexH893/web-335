@@ -1,0 +1,12 @@
+{
+    "username": "Alex",
+    "password": "2*rqw-!3",
+    "role": [{
+        "roleName": "admin",
+        "permission": [{
+            "add": "yes",
+            "delete": "yes",
+            "save": "yes"
+        }]
+    }]
+}
