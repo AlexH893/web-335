@@ -1,0 +1,30 @@
+{
+    "publisher_name": "Expert Publishing",
+    "publisher_code": "2002",
+    "publisher_address": "32 Ridge Way",
+    "author": [{
+        "author_first_name": "J. R. R.",
+        "author_last_name": "Tolkien",
+        "author_phone": "120-785-7771",
+        "author_email": "lotr@gmail.com",
+        "book": [{
+            "book_name": "The Lord of the Rings",
+            "book_price": "19.99",
+            "book_isbn": "0202220201"
+        },
+        {
+            "book_name": "The Silmarillion",
+            "book_price": "25.98",
+            "book_isbn": "0202220202"            
+        }],
+        "author_first_name": "J. R. R.",
+        "author_last_name": "Tolkien",
+        "author_phone": "120-785-7771",
+        "author_email": "lotr@gmail.com",
+        "book": [{
+            "book_name": "Bilbo's Last Song",
+            "book_price": "19.99",
+            "book_isbn": "0202220203"
+        }]      
+    }]
+}
